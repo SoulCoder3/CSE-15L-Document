@@ -1,0 +1,6 @@
+*.swp
+*.class
+
+.DS_Store
+
+session.log
